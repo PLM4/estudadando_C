@@ -1,0 +1,10 @@
+uva
+maca
+manga
+pera
+banana
+melancia
+melao
+mamao
+kiwi
+caqui

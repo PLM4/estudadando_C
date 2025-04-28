@@ -1,0 +1,8 @@
+#include math
+
+OBS: Para utilizar a biblioteca math.h
+
+a) Clicar com o botão  direito do mouse no projeto c
+b) Ir em C/C++ Build -> Settings -> Libraries
+c) Clicar no + e add 'm'
+d) Aplicar e fechar
