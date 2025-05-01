@@ -6,3 +6,31 @@ a) Clicar com o botão  direito do mouse no projeto c
 b) Ir em C/C++ Build -> Settings -> Libraries
 c) Clicar no + e add 'm'
 d) Aplicar e fechar
+
+funcoes trigronometricas
+
+cos() calcula o cosseno de um angulo em radianos.
+sin() calcula o seno de um angulo em radianos.
+tang() calcula a tangente de um angulo em radianos.
+
+funcoes hiperbolicas
+
+cosh() calcula o cosseno hiperbolico de um angulo em radianos.
+sinh() calcula o seno hiperbolico de um angulo em radianos.
+tangh() calcula a tangente hiperbolica de um angulo em radianos.
+
+funcoes exponenciais e logaritmicas
+
+exp() funcao exponencial
+log() logaritmo natual
+log10() logaritmo na base 10
+
+funcoes de potencia
+
+pow() retorna a base elevada ao expoente
+sqrt() retorna a raiz quadrada
+
+funcoes de arredondamento 
+
+ceill() arredonda para cima um número
+floor() arredonda para baixo um número
