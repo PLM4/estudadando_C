@@ -1,0 +1,10 @@
+Utilizado para fazer testes de tipos de caracteres
+
+isalnum() verifica se o caractere é alfa numerico (abc567)
+isalpha() verifica se o caractere é alfabetico (abcde...)
+isdigit() verifica se o caractere é um digito decimal (567...)
+ispunct() verifica se o caractere é uma pontuação (?!,.)
+isspace() verfica se o caractere é um espaço( )
+isupper() verifica se é maiuscula (ABC)
+tolower() converte para minuscula
+toupper() converte para maiuscula
