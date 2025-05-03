@@ -1,0 +1,31 @@
+funcões de entrada e saída
+
+Acesso a arquivos
+
+fopen()
+fclose()
+fflush()  limpa o buffer de saída (corrige bugs de saída)
+
+Saída e entrada formatadas
+
+fscanf() 
+scanf()  
+printf()
+
+Entrada e saída de dados
+
+fputs() e fgets()
+gets()
+getchar()
+
+Tratamento de erro
+
+foef 
+
+Tipos e macros
+
+FILE
+EOF (End Of File)
+NULL
+
+Operações já tratadas ao longo dos estudos nas outras pastas.
