@@ -1,17 +1,15 @@
-#include <stdlib.h>  
-
 Conversão de string  
 
 atof();  converte string para double  
 atoi();  converte string para int  
 atol();  converte string para long  
 
-Geração de sequencia pseudo-aleatoria  
+Geração de sequência pseudo-aleatória  
 
-rand();  gera sequencia pseudo-aleatoria  
-srand();  Inicializa o gerador de sequencia pseudo-aleatoria  
+rand();  gera sequência pseudo-aleatória  
+srand();  Inicializa o gerador de sequência pseudo-aleatória  
 
-Gerenciamento de memoria dinâmica  
+Gerenciamento de memória dinâmica  
 
 malloc();  aloca memória dinâmica  
 calloc();  aloca memória dinâmica e zera os bytes  
@@ -22,7 +20,7 @@ Pesquisa e ordenação
 
 qsort(); ordena os elementos em um array
 
-Aritimetica de inteiros
+Aritimética de inteiros
 
 abs(); valor absoluto
 div(); divisão inteira

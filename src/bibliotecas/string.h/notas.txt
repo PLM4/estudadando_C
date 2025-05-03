@@ -1,0 +1,11 @@
+Operações em String:
+
+strcpy() copia de strings.
+strcat() concatena strings.
+strcmp() compara duas strings.
+
+Busca em String:
+
+strchr() localiza a primeira ocorrencia de um caractere em uma string.
+strtok() secciona uma string em sub-strings com base em um caractere. 
+strlen() retorna o tamanho da string.

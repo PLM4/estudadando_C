@@ -1,36 +1,27 @@
-#include math
+funcões trigronométricas
 
-OBS: Para utilizar a biblioteca math.h
+cos() calcula o cosseno de um ângulo em radianos.
+sin() calcula o seno de um ângulo em radianos.
+tang() calcula a tangente de um ângulo em radianos.
 
-a) Clicar com o botão  direito do mouse no projeto c
-b) Ir em C/C++ Build -> Settings -> Libraries
-c) Clicar no + e add 'm'
-d) Aplicar e fechar
+funcões hiperbólicas
 
-funcoes trigronometricas
+cosh() calcula o cosseno hiperbólico de um ângulo em radianos.
+sinh() calcula o seno hiperbólico de um ângulo em radianos.
+tangh() calcula a tangente hiperbólica de um ângulo em radianos.
 
-cos() calcula o cosseno de um angulo em radianos.
-sin() calcula o seno de um angulo em radianos.
-tang() calcula a tangente de um angulo em radianos.
-
-funcoes hiperbolicas
-
-cosh() calcula o cosseno hiperbolico de um angulo em radianos.
-sinh() calcula o seno hiperbolico de um angulo em radianos.
-tangh() calcula a tangente hiperbolica de um angulo em radianos.
-
-funcoes exponenciais e logaritmicas
+funcões exponenciais e logaritmicas
 
 exp() funcao exponencial
 log() logaritmo natual
 log10() logaritmo na base 10
 
-funcoes de potencia
+funcões de potência
 
 pow() retorna a base elevada ao expoente
 sqrt() retorna a raiz quadrada
 
-funcoes de arredondamento 
+funcões de arredondamento 
 
-ceill() arredonda para cima um número
-floor() arredonda para baixo um número
+ceill() arredonda um número para cima. 
+floor() arredonda um número para baixo. 

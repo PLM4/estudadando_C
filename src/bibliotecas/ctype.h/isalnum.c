@@ -6,7 +6,7 @@ int main()
 
     char test = 'c';
 
-    char teste = 4;
+    char teste = '4';
 
     if (isalnum(test))
         printf("Eh alfanumerico\n");
